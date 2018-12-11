@@ -1,14 +1,4 @@
-# easy-peasy-bot
-
-## The story of a (Slack)bot
-
-A (not so) long time ago, a team called Tiny Speck built an app to communicate with each other as they worked.
-In their daily work, they found that there were some mindless tasks they had to do over and over. These things pulled them out of important conversations, which slowed them down.
-
-So, they built a special user in their messaging app: not a human user, but a digital user. The digital user took on some of their mindless tasks and integrated the other apps they used into their conversations.
-
-Eventually their app was named Slack and their digital user, Slackbot.
-And lo, you can build a Slack Bot, too! With our API and this nifty repository, a bot for your team can be all yours.
+# LunchBot
 
 # Using Botkit for Custom Bots
 1. Fork this project.
